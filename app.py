@@ -78,11 +78,6 @@ Each image has undergone multiple layers of expert verification to ensure accura
 - **Explore Results**: View categorized scans and detailed diagnostic insights.
 - **Learn More**: Dive deeper into the different retinal diseases and how OCT helps diagnose them.
 
----
-
-#### **Contact Us**
-
-Have questions or need assistance? [Contact our support team](#) for more information on how to use the platform or integrate it into your clinical practice.
 
     """)
 

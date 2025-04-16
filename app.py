@@ -149,7 +149,7 @@ elif app_mode == "Disease Identification":
                     
                     # Display original image
                     st.subheader("Original OCT Image")
-                    st.image(original_image.astype('uint8'), use_column_width=True)
+                    st.image(original_image.astype('uint8'), use_container_width=True)
                     
                     # Update the LIME explanation section in your code with this:
 
